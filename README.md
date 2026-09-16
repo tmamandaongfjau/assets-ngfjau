@@ -1,0 +1,2 @@
+# assets-ngfjau
+static assets
